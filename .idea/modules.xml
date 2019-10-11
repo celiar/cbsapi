@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\PycharmProjects\cbsapi\.idea\CBS.iml" filepath="D:\PycharmProjects\cbsapi\.idea\CBS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PT/.idea/PT.iml" filepath="$PROJECT_DIR$/../PT/.idea/PT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cbsapi.iml" filepath="$PROJECT_DIR$/.idea/cbsapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mypro/.idea/mypro.iml" filepath="$PROJECT_DIR$/../mypro/.idea/mypro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../points_system/.idea/points_system.iml" filepath="$PROJECT_DIR$/../points_system/.idea/points_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pxat/.idea/pxat.iml" filepath="$PROJECT_DIR$/../pxat/.idea/pxat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pxlocust/.idea/pxlocust.iml" filepath="$PROJECT_DIR$/../pxlocust/.idea/pxlocust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pxsys/.idea/pxsys.iml" filepath="$PROJECT_DIR$/../pxsys/.idea/pxsys.iml" />
+      <module fileurl="file://D:/BaiduNetdiskDownload/从零开始学Python--数据分析与挖掘/.idea/从零开始学Python--数据分析与挖掘.iml" filepath="D:/BaiduNetdiskDownload/从零开始学Python--数据分析与挖掘/.idea/从零开始学Python--数据分析与挖掘.iml" />
+    </modules>
+  </component>
+</project>
